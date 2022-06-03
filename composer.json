@@ -1,0 +1,16 @@
+{
+    "name": "PHP/Digit Betting Project",
+    "authors": [
+        {
+            "name": "Wai Yan Moe Oo",
+            "email": "waiyanmoeoo81@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Libs\\":"_classes/Libs/",
+            "Helpers\\":"_classes/Helpers"
+        }
+    }
+}
